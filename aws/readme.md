@@ -1,7 +1,8 @@
 # assignment 
 
 -aws -create instance
--ssh-key
+-ssh-key()
+
 -assign ssh-key to instance
 
 -create a security group
