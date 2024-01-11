@@ -9,3 +9,8 @@ assign that group to instance
 
 --install nginx and run index.html
 
+downloaded index.html from provider http
+
+destroy _httpd service on terraform destroy
+
+
